@@ -1,8 +1,8 @@
-# EduPortal | NavGuard Hub 🎓
+# EduPortal🎓
 
 > **Next-Generation Smart Educational Management & AI-Powered Virtual Classroom Platform**
 
-EduPortal (NavGuard Hub) is an end-to-end, role-based educational management system engineered with React, TypeScript, Tailwind CSS, shadcn/ui, and real-time **AI Face & Eye-Gaze Attention Tracking** powered by TensorFlow.js.
+EduPortal is an end-to-end, role-based educational management system engineered with React, TypeScript, Tailwind CSS, shadcn/ui, and real-time **AI Face & Eye-Gaze Attention Tracking** powered by TensorFlow.js.
 
 ---
 
